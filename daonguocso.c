@@ -2,6 +2,7 @@
 
 int Reverse(int n){
     
+    //LAN DAU THU GIT DESKTOP
     int reNum = n % 10; // B1: L?y ch? s? cu?i cùng
     n /= 10; // B? ch? s? cu?i cùng
     int last;
